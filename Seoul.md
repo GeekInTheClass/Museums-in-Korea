@@ -3,7 +3,7 @@
 그중 제가 추천하는 미술관들입니다.  
 
 # 목록
-* 한가람미술관
+* [한가람미술관](https://github.com/GeekInTheClass/Museums-in-Korea/blob/master/Seoul.md#한가람미술관)
 * 국립현대미술관
 * 디뮤지엄
 
