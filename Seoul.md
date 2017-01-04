@@ -1,11 +1,11 @@
 # 서울의 미술관들
-서울에는 많은 미술관들이 있습니다.  
-그중 제가 추천하는 미술관들입니다.  
+서울에는 많은 미술관들이 있습니다. 그중 제가 추천하는 미술관들입니다.  
 
 # 목록
 * [한가람미술관](https://github.com/GeekInTheClass/Museums-in-Korea/blob/master/Seoul.md#한가람미술관)
-* 국립현대미술관
-* 디뮤지엄
+* [국립현대미술관](https://github.com/GeekInTheClass/Museums-in-Korea/blob/master/Seoul.md#국립현대미술관서울)
+* [디뮤지엄](https://github.com/GeekInTheClass/Museums-in-Korea/blob/master/Seoul.md#디뮤지엄)
+* [인사동](https://github.com/GeekInTheClass/Museums-in-Korea/blob/master/Seoul.md#인사동)
 
 ## 한가람미술관
 ![한가람미술관](http://www.sticho.co.kr/assets/img/upload/editor/jOnbyY4lLXJI.jpg)
@@ -38,11 +38,14 @@
 
 별점 : ★★★☆☆  
 추천이유 : 요즘 매우 핫한 미술관. 커플들의 천국. 일단 혼자가지 않는 것을 추천한다. 하다못해 동성친구라도 데리고 가야한다. 왜냐하면 이 미술관은 젊은 감각의, 일단 보기에 이쁘고 작품을 이해 못해도 감상할 수 있는 전시가 주를 이룬다. 그래서 많은 커플들이 프사를 건지기 위해 찾아온다. 이는 대림미술관도 비슷한다. 전시공간과 이동공간이 좁아서 사람이 많은 날이면 정말 공장에 끌려가듯이 전시를 해야하지만 운 좋게 한가한 날에 간다면 젊고 유동적이며 살아숨쉬는 듯한 전시를 관람할 수 있다.  
+  
+  
+## 인사동
+![인사동](http://blog.joins.com/usr/e/ss/esse21/1303/5145530b0a535.jpg)  
 
+주소: 서울 특별시 종로구 인사동  
+연락처: --  
+홈페이지 : [대한민국 구석구석 소개글](http://korean.visitkorea.or.kr/kor/bz15/where/where_main_search.jsp?cid=264353)  
 
-
-
-
-
-
-
+별점 : ★★★★★  
+추천이유 : 인사동에는 **무료**로 관람할 수 있는 미술관, 갤러리, 화랑이 정-말 많다. 한국적인 느낌의 작품(한복, 한국화, 불교미술 등) 뿐만 아니라 현대미술작품도 많고, 해외 작품들을 전시하기도 한다. 인사동 길에서는 여러 상점들이 한국적인 조각품이나 장식, 기념품들을 팔고 있으며 쌈짓길에서는 조그마한 디자인 상품들이 많다. 여러 갤러리를 골라가는 재미가 있으며 쉴 수 있는 카페, 벤치, 식당이 많다. 외국인 관광객이 많고 길거리 공연도 종종 한다. 그야말로 미술관람 백화점.
